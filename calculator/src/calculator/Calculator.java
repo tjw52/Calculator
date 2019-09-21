@@ -5,7 +5,6 @@ import javafx.stage.Stage;
 
 public class Calculator extends Application {
 	private int value;
-	private double testValue;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
